@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\bin\Debug\netcoreapp3.1\operadoresBooleanos.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\bin\Debug\netcoreapp3.1\operadoresBooleanos.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\bin\Debug\netcoreapp3.1\operadoresBooleanos.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\bin\Debug\netcoreapp3.1\operadoresBooleanos.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\bin\Debug\netcoreapp3.1\operadoresBooleanos.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\bin\Debug\netcoreapp3.1\operadoresBooleanos.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\obj\Debug\netcoreapp3.1\operadoresBooleanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\obj\Debug\netcoreapp3.1\operadoresBooleanos.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\obj\Debug\netcoreapp3.1\operadoresBooleanos.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\obj\Debug\netcoreapp3.1\operadoresBooleanos.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\obj\Debug\netcoreapp3.1\operadoresBooleanos.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\obj\Debug\netcoreapp3.1\operadoresBooleanos.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\obj\Debug\netcoreapp3.1\operadoresBooleanos.genruntimeconfig.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\operadoresBooleanos\operadoresBooleanos\obj\Debug\netcoreapp3.1\operadoresBooleanos.csproj.AssemblyReference.cache
