@@ -1,0 +1,13 @@
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\bin\Debug\netcoreapp3.1\operacionesComparaciones.exe
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\bin\Debug\netcoreapp3.1\operacionesComparaciones.deps.json
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\bin\Debug\netcoreapp3.1\operacionesComparaciones.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\bin\Debug\netcoreapp3.1\operacionesComparaciones.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\bin\Debug\netcoreapp3.1\operacionesComparaciones.dll
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\bin\Debug\netcoreapp3.1\operacionesComparaciones.pdb
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\obj\Debug\netcoreapp3.1\operacionesComparaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\obj\Debug\netcoreapp3.1\operacionesComparaciones.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\obj\Debug\netcoreapp3.1\operacionesComparaciones.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\obj\Debug\netcoreapp3.1\operacionesComparaciones.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\obj\Debug\netcoreapp3.1\operacionesComparaciones.dll
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\obj\Debug\netcoreapp3.1\operacionesComparaciones.pdb
+C:\Users\Mayra\Documents\GitHub\techacademyinstructor-Tech-Academy-Projects\operacionesComparaciones\operacionesComparaciones\obj\Debug\netcoreapp3.1\operacionesComparaciones.genruntimeconfig.cache
