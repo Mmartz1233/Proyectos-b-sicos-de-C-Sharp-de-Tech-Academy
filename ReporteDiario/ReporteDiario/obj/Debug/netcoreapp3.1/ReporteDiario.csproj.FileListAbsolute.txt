@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\bin\Debug\netcoreapp3.1\ReporteDiario.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\bin\Debug\netcoreapp3.1\ReporteDiario.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\bin\Debug\netcoreapp3.1\ReporteDiario.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\bin\Debug\netcoreapp3.1\ReporteDiario.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\bin\Debug\netcoreapp3.1\ReporteDiario.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\bin\Debug\netcoreapp3.1\ReporteDiario.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\obj\Debug\netcoreapp3.1\ReporteDiario.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\obj\Debug\netcoreapp3.1\ReporteDiario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\obj\Debug\netcoreapp3.1\ReporteDiario.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\obj\Debug\netcoreapp3.1\ReporteDiario.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\obj\Debug\netcoreapp3.1\ReporteDiario.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\obj\Debug\netcoreapp3.1\ReporteDiario.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\obj\Debug\netcoreapp3.1\ReporteDiario.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ReporteDiario\ReporteDiario\obj\Debug\netcoreapp3.1\ReporteDiario.genruntimeconfig.cache
