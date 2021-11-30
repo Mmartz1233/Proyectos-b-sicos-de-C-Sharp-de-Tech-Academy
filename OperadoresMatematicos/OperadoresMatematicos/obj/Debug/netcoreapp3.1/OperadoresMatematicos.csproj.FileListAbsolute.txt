@@ -1,0 +1,13 @@
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\netcoreapp3.1\OperadoresMatematicos.exe
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\netcoreapp3.1\OperadoresMatematicos.deps.json
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\netcoreapp3.1\OperadoresMatematicos.runtimeconfig.json
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\netcoreapp3.1\OperadoresMatematicos.runtimeconfig.dev.json
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\netcoreapp3.1\OperadoresMatematicos.dll
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\netcoreapp3.1\OperadoresMatematicos.pdb
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\netcoreapp3.1\OperadoresMatematicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\netcoreapp3.1\OperadoresMatematicos.AssemblyInfoInputs.cache
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\netcoreapp3.1\OperadoresMatematicos.AssemblyInfo.cs
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\netcoreapp3.1\OperadoresMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\netcoreapp3.1\OperadoresMatematicos.dll
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\netcoreapp3.1\OperadoresMatematicos.pdb
+C:\Users\Mayra\source\repos\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\netcoreapp3.1\OperadoresMatematicos.genruntimeconfig.cache
