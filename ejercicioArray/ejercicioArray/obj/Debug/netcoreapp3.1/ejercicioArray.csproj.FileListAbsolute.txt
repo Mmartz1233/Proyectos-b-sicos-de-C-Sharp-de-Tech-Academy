@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\bin\Debug\netcoreapp3.1\ejercicioArray.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\bin\Debug\netcoreapp3.1\ejercicioArray.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\bin\Debug\netcoreapp3.1\ejercicioArray.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\bin\Debug\netcoreapp3.1\ejercicioArray.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\bin\Debug\netcoreapp3.1\ejercicioArray.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\bin\Debug\netcoreapp3.1\ejercicioArray.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\obj\Debug\netcoreapp3.1\ejercicioArray.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\obj\Debug\netcoreapp3.1\ejercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\obj\Debug\netcoreapp3.1\ejercicioArray.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\obj\Debug\netcoreapp3.1\ejercicioArray.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\obj\Debug\netcoreapp3.1\ejercicioArray.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\obj\Debug\netcoreapp3.1\ejercicioArray.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\obj\Debug\netcoreapp3.1\ejercicioArray.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\ejercicioArray\ejercicioArray\obj\Debug\netcoreapp3.1\ejercicioArray.genruntimeconfig.cache
