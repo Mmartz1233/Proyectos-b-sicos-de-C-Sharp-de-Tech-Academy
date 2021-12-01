@@ -1,0 +1,13 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\bin\Debug\netcoreapp3.1\asignacionComparacion.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\bin\Debug\netcoreapp3.1\asignacionComparacion.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\bin\Debug\netcoreapp3.1\asignacionComparacion.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\bin\Debug\netcoreapp3.1\asignacionComparacion.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\bin\Debug\netcoreapp3.1\asignacionComparacion.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\bin\Debug\netcoreapp3.1\asignacionComparacion.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\obj\Debug\netcoreapp3.1\asignacionComparacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\obj\Debug\netcoreapp3.1\asignacionComparacion.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\obj\Debug\netcoreapp3.1\asignacionComparacion.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\obj\Debug\netcoreapp3.1\asignacionComparacion.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\obj\Debug\netcoreapp3.1\asignacionComparacion.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\obj\Debug\netcoreapp3.1\asignacionComparacion.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionComparacion\asignacionComparacion\obj\Debug\netcoreapp3.1\asignacionComparacion.genruntimeconfig.cache
