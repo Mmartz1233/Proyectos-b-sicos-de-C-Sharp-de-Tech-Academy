@@ -66,17 +66,17 @@ namespace Switch
             }//fin while
 
             /**********************SWITCH CONVINADO CON DO WHILE*****************/
-            Console.WriteLine("Adivina otro numero");
-            int numadv2 = Convert.ToInt32(Console.ReadLine());
-            bool esadivinado2 = numadv2 == 25;
-            do
+            Console.WriteLine("Adivina otro numero");//pedimos al usurio que adivine un numero
+            int numadv2 = Convert.ToInt32(Console.ReadLine()); //guardamos el numero en un entero convirtiendolo
+            bool esadivinado2 = numadv2 == 25; //establecemos si esta condicion como verdadera si cumple con lo siguiente
+            do//primero has esto 
             {
-                switch (numadv2)
+                switch (numadv2)//evaluamos la entrada del usuario
                 {
                     case 77:
-                        Console.WriteLine("el numero de mama? trata otra vez");
+                        Console.WriteLine("el numero de mama? trata otra vez"); //si no es el caso adivinado, continua ingresando valores
                         Console.WriteLine("Adivina un numero");
-                        numadv2 = Convert.ToInt32(Console.ReadLine());
+                        numadv2 = Convert.ToInt32(Console.ReadLine()); //guarda la nueva entrada del usuario
                         break;
                     case 69:
                         Console.WriteLine("el numero de papa? trata otra vez");
@@ -84,18 +84,18 @@ namespace Switch
                         numadv2 = Convert.ToInt32(Console.ReadLine());
                         break;
                     case 25:
-                        Console.WriteLine("Adivinaste!!");
-                        esadivinado2 = true;
+                        Console.WriteLine("Adivinaste!!"); // es caso de adivinado
+                        esadivinado2 = true; //se cumple la condicion del boleano
                         break;
                     default:
                         Console.WriteLine("Ninguno :(");
                         Console.WriteLine("Adivina un numero");
                         numadv2 = Convert.ToInt32(Console.ReadLine());
-                        break;
+                        break;//evalua y continua con el procedimiento
                 }
 
             }
-            while (!esadivinado2);
+            while (!esadivinado2);//si no cumple vuelve a hacer 
 
             Console.Read();
         }

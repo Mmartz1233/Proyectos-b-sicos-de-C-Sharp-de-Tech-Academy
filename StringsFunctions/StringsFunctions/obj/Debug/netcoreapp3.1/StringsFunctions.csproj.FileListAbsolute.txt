@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.genruntimeconfig.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\StringsFunctions\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.csproj.AssemblyReference.cache
