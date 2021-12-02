@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\bin\Debug\netcoreapp3.1\seisPasos.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\bin\Debug\netcoreapp3.1\seisPasos.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\bin\Debug\netcoreapp3.1\seisPasos.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\bin\Debug\netcoreapp3.1\seisPasos.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\bin\Debug\netcoreapp3.1\seisPasos.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\bin\Debug\netcoreapp3.1\seisPasos.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\obj\Debug\netcoreapp3.1\seisPasos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\obj\Debug\netcoreapp3.1\seisPasos.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\obj\Debug\netcoreapp3.1\seisPasos.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\obj\Debug\netcoreapp3.1\seisPasos.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\obj\Debug\netcoreapp3.1\seisPasos.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\obj\Debug\netcoreapp3.1\seisPasos.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\obj\Debug\netcoreapp3.1\seisPasos.genruntimeconfig.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\seisPasos\seisPasos\obj\Debug\netcoreapp3.1\seisPasos.csproj.AssemblyReference.cache

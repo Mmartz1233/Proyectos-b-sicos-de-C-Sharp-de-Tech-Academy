@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\bin\Debug\netcoreapp3.1\iteracionMore.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\bin\Debug\netcoreapp3.1\iteracionMore.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\bin\Debug\netcoreapp3.1\iteracionMore.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\bin\Debug\netcoreapp3.1\iteracionMore.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\bin\Debug\netcoreapp3.1\iteracionMore.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\bin\Debug\netcoreapp3.1\iteracionMore.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\obj\Debug\netcoreapp3.1\iteracionMore.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\obj\Debug\netcoreapp3.1\iteracionMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\obj\Debug\netcoreapp3.1\iteracionMore.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\obj\Debug\netcoreapp3.1\iteracionMore.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\obj\Debug\netcoreapp3.1\iteracionMore.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\obj\Debug\netcoreapp3.1\iteracionMore.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\obj\Debug\netcoreapp3.1\iteracionMore.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\iteracionMore\iteracionMore\obj\Debug\netcoreapp3.1\iteracionMore.genruntimeconfig.cache
