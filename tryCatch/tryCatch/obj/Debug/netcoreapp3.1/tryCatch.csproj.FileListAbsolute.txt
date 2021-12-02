@@ -1,0 +1,13 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.genruntimeconfig.cache
