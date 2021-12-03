@@ -11,3 +11,4 @@ C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\arr
 C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\arraysAndLists\arraysAndLists\obj\Debug\netcoreapp3.1\arraysAndLists.dll
 C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\arraysAndLists\arraysAndLists\obj\Debug\netcoreapp3.1\arraysAndLists.pdb
 C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\arraysAndLists\arraysAndLists\obj\Debug\netcoreapp3.1\arraysAndLists.genruntimeconfig.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\arraysAndLists\arraysAndLists\obj\Debug\netcoreapp3.1\arraysAndLists.csproj.AssemblyReference.cache
