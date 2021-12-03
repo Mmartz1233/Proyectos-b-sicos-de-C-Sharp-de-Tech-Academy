@@ -111,6 +111,7 @@ namespace seisPasos
             comida.Add("mole");                                                   
             comida.Add("barbacoa");
             comida.Add("atun");
+            comida.Add("atun");
             Console.WriteLine("Ingresa tu pedido de comida: ");
             string orden = Console.ReadLine();
             bool oredenencontrada = false;
@@ -129,7 +130,7 @@ namespace seisPasos
 
                 if (oredenencontrada)                                                             
                 {
-                    Console.WriteLine("posicion: " + String.Join(", ", coincidencia.ToArray()));
+                    Console.WriteLine("posicion: " + String.Join(", ", coincidencia.ToArray()));//concatena los elementos de una coleccion, usando un operador especifico en cada miembro
                     break;
                 }
                 else
@@ -138,24 +139,25 @@ namespace seisPasos
                     orden = Console.ReadLine();
                 }
             }
-
+            
             Console.WriteLine("--------------------------PASO 6  !-------------------------------");
              //Este programa muestra el menu de bebidas utilizando un for each
              List<string> bebidas = new List<string>() { "agua", "jugo", "soda", "soda", "mezcal" };
              List<string> nueva = new List<string>(); // creamos una lista con los valores filtrados
              foreach (string index in bebidas)
             {
-                nueva.Add(index);
+               
                 if (nueva.Contains(index))
                 {
-                    
-                    Console.WriteLine("Valores agregados " + index);
+                    Console.WriteLine("index is alredy been seen " + index);
+                   // Console.WriteLine("Valores agregados " + index);
                 }else if (!nueva.Contains(index))
                 {
+                    nueva.Add(index);
                     Console.WriteLine("Lista vacia");
                 }
             }
-             
+            
             
             Console.Read();
         }
