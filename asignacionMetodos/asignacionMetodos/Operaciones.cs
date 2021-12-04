@@ -4,9 +4,9 @@ using System.Text;
 
 namespace asignacionMetodos
 {
-    class Operaciones //Crear una clase.
+    class Operaciones //1. Crear una clase.
     {
-        //cree tres métodos, cada uno de los cuales tomará un parámetro de número entero y devolverá un número entero
+        //1. cree tres métodos, cada uno de los cuales tomará un parámetro de número entero y devolverá un número entero
         public static int Sumar(int num1, int num2)
         {
             return num1 + num2;
