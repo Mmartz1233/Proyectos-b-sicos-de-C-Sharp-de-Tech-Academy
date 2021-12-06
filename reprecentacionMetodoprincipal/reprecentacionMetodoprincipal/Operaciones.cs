@@ -23,13 +23,7 @@ namespace reprecentacionMetodoprincipal
         //step 5.- Agregue un tercer método a la clase, con el mismo nombre, que tomará una cadena, la convertirá a un número entero si es posible, le hará una operación matemática diferente y luego devolverá la respuesta como un número entero.
         public static int Suma(string letra1, string letra2)
         {
-            //conbierta a un numero
-            //realice una operacion matematica en un entero
-            int num1 = Convert.ToInt32(letra1);
-            int num2 = Convert.ToInt32(letra2);
-            int mult = num1 * num2;
-            string multi = Convert.ToString(mult);
-            return Int32.Parse(letra1) * Int32.Parse(letra2);
+          return Int32.Parse(letra1) * Int32.Parse(letra2);
         }
        
     }
