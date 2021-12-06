@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\bin\Debug\netcoreapp3.1\usandoClasesStaticas.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\bin\Debug\netcoreapp3.1\usandoClasesStaticas.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\bin\Debug\netcoreapp3.1\usandoClasesStaticas.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\bin\Debug\netcoreapp3.1\usandoClasesStaticas.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\bin\Debug\netcoreapp3.1\usandoClasesStaticas.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\bin\Debug\netcoreapp3.1\usandoClasesStaticas.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\obj\Debug\netcoreapp3.1\usandoClasesStaticas.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\obj\Debug\netcoreapp3.1\usandoClasesStaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\obj\Debug\netcoreapp3.1\usandoClasesStaticas.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\obj\Debug\netcoreapp3.1\usandoClasesStaticas.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\obj\Debug\netcoreapp3.1\usandoClasesStaticas.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\obj\Debug\netcoreapp3.1\usandoClasesStaticas.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\obj\Debug\netcoreapp3.1\usandoClasesStaticas.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoClasesStaticas\usandoClasesStaticas\obj\Debug\netcoreapp3.1\usandoClasesStaticas.genruntimeconfig.cache
