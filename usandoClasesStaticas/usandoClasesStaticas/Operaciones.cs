@@ -14,9 +14,12 @@ namespace usandoClasesStaticas
             Console.WriteLine("La division es: "+ div);
         }
         //step 4 .- Cree un método con parámetros de salida.
-        public int Suma(int b)
+        public int Suma(int b, out int a)
         {
-            return b + b;
+            a = 9;
+            Console.WriteLine("el numero de out es: " + a);
+            return b + a;
+            
         }
         //step 5 .- Sobrecargar un método.
         public int Suma(int b, int a)
@@ -25,9 +28,6 @@ namespace usandoClasesStaticas
         }
 
         //Declara una clase estática.
-        public static void Static()
-        {
-            Console.WriteLine("Soy estatica");
-        }
+        
     }
 }

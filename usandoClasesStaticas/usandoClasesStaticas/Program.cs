@@ -17,10 +17,11 @@ namespace usandoClasesStaticas
 
             op.Division(num);
             //lamando metodos:
-            
-            Console.WriteLine("Suma de un metodo: "+op.Suma(num));
+            int nu = 9;
+            Console.WriteLine("Suma de un metodo: "+op.Suma(num, out nu));
             Console.WriteLine("Sobrecarga de metodos: "+op.Suma(num,num1));
-            Operaciones.Static();
+
+            ClaseStatica.StaticMet();
             
 
         }
