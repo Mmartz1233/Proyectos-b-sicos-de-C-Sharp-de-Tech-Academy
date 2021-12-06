@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\bin\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\bin\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\bin\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\bin\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\bin\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\bin\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\obj\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\obj\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\obj\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\obj\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\obj\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\obj\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\obj\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\reprecentacionMetodoprincipal\reprecentacionMetodoprincipal\obj\Debug\netcoreapp3.1\reprecentacionMetodoprincipal.genruntimeconfig.cache
