@@ -12,7 +12,7 @@ namespace usandoVoid
             int a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Ingresa otros numero");
              int b = Convert.ToInt32(Console.ReadLine());
-            op.Suma(a, b); //step 3 y 4.- Llame al método en la clase, pasando dos números, Llame al método en la clase, especificando los parámetros por nombre.
+            op.Suma(a = a, b=b); //step 3 y 4.- Llame al método en la clase, pasando dos números, Llame al método en la clase, especificando los parámetros por nombre.
         }
     }
 }
