@@ -1,0 +1,14 @@
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\bin\Debug\netcoreapp3.1\pasadoNumeros.exe
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\bin\Debug\netcoreapp3.1\pasadoNumeros.deps.json
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\bin\Debug\netcoreapp3.1\pasadoNumeros.runtimeconfig.json
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\bin\Debug\netcoreapp3.1\pasadoNumeros.runtimeconfig.dev.json
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\bin\Debug\netcoreapp3.1\pasadoNumeros.dll
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\bin\Debug\netcoreapp3.1\pasadoNumeros.pdb
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\obj\Debug\netcoreapp3.1\pasadoNumeros.csproj.AssemblyReference.cache
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\obj\Debug\netcoreapp3.1\pasadoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\obj\Debug\netcoreapp3.1\pasadoNumeros.AssemblyInfoInputs.cache
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\obj\Debug\netcoreapp3.1\pasadoNumeros.AssemblyInfo.cs
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\obj\Debug\netcoreapp3.1\pasadoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\obj\Debug\netcoreapp3.1\pasadoNumeros.dll
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\obj\Debug\netcoreapp3.1\pasadoNumeros.pdb
+C:\Users\Mayra\source\repos\pasadoNumeros\pasadoNumeros\obj\Debug\netcoreapp3.1\pasadoNumeros.genruntimeconfig.cache
