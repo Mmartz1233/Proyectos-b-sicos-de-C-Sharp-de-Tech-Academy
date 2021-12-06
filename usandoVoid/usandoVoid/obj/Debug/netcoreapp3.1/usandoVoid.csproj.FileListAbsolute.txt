@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\bin\Debug\netcoreapp3.1\usandoVoid.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\bin\Debug\netcoreapp3.1\usandoVoid.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\bin\Debug\netcoreapp3.1\usandoVoid.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\bin\Debug\netcoreapp3.1\usandoVoid.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\bin\Debug\netcoreapp3.1\usandoVoid.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\bin\Debug\netcoreapp3.1\usandoVoid.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\obj\Debug\netcoreapp3.1\usandoVoid.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\obj\Debug\netcoreapp3.1\usandoVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\obj\Debug\netcoreapp3.1\usandoVoid.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\obj\Debug\netcoreapp3.1\usandoVoid.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\obj\Debug\netcoreapp3.1\usandoVoid.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\obj\Debug\netcoreapp3.1\usandoVoid.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\obj\Debug\netcoreapp3.1\usandoVoid.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\usandoVoid\usandoVoid\obj\Debug\netcoreapp3.1\usandoVoid.genruntimeconfig.cache
