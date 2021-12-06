@@ -13,20 +13,20 @@ namespace pasadoNumeros
             Console.WriteLine("Ingresa un numero: ");
             int x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Ingresa otro numero: (este es opcional)");
+           
             try
             {
                 int y = Convert.ToInt32(Console.ReadLine());
-
-                //step 4 .- Llame al método en la clase, pasando uno o dos números ingresados.
                 int res = op.operacion1(x, y);
                 Console.WriteLine("el resultado es: " + res);
             }
             catch (Exception)
             {
-                int res = op.operacion1(x, x);
+                int res = op.operacion1(x);
                 Console.WriteLine("el resultado es: " + res);
-
             }
+
+       
         }
     }
 }
