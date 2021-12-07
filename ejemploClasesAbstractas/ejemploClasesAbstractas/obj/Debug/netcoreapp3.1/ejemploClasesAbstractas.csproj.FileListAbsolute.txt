@@ -1,0 +1,14 @@
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\bin\Debug\netcoreapp3.1\ejemploClasesAbstractas.exe
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\bin\Debug\netcoreapp3.1\ejemploClasesAbstractas.deps.json
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\bin\Debug\netcoreapp3.1\ejemploClasesAbstractas.runtimeconfig.json
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\bin\Debug\netcoreapp3.1\ejemploClasesAbstractas.runtimeconfig.dev.json
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\bin\Debug\netcoreapp3.1\ejemploClasesAbstractas.dll
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\bin\Debug\netcoreapp3.1\ejemploClasesAbstractas.pdb
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\obj\Debug\netcoreapp3.1\ejemploClasesAbstractas.csproj.AssemblyReference.cache
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\obj\Debug\netcoreapp3.1\ejemploClasesAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\obj\Debug\netcoreapp3.1\ejemploClasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\obj\Debug\netcoreapp3.1\ejemploClasesAbstractas.AssemblyInfo.cs
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\obj\Debug\netcoreapp3.1\ejemploClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\obj\Debug\netcoreapp3.1\ejemploClasesAbstractas.dll
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\obj\Debug\netcoreapp3.1\ejemploClasesAbstractas.pdb
+C:\Users\Mayra\Desktop\Basic_C # _Programs\ejemploClasesAbstractas\ejemploClasesAbstractas\obj\Debug\netcoreapp3.1\ejemploClasesAbstractas.genruntimeconfig.cache
