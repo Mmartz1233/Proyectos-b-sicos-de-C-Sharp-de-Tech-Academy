@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\bin\Debug\netcoreapp3.1\AsignacionInterfaz.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\bin\Debug\netcoreapp3.1\AsignacionInterfaz.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\bin\Debug\netcoreapp3.1\AsignacionInterfaz.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\bin\Debug\netcoreapp3.1\AsignacionInterfaz.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\bin\Debug\netcoreapp3.1\AsignacionInterfaz.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\bin\Debug\netcoreapp3.1\AsignacionInterfaz.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\obj\Debug\netcoreapp3.1\AsignacionInterfaz.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\obj\Debug\netcoreapp3.1\AsignacionInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\obj\Debug\netcoreapp3.1\AsignacionInterfaz.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\obj\Debug\netcoreapp3.1\AsignacionInterfaz.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\obj\Debug\netcoreapp3.1\AsignacionInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\obj\Debug\netcoreapp3.1\AsignacionInterfaz.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\obj\Debug\netcoreapp3.1\AsignacionInterfaz.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\AsignacionInterfaz\AsignacionInterfaz\obj\Debug\netcoreapp3.1\AsignacionInterfaz.genruntimeconfig.cache
