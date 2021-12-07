@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\bin\Debug\netcoreapp3.1\asignacionHerencia.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\bin\Debug\netcoreapp3.1\asignacionHerencia.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\bin\Debug\netcoreapp3.1\asignacionHerencia.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\bin\Debug\netcoreapp3.1\asignacionHerencia.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\bin\Debug\netcoreapp3.1\asignacionHerencia.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\bin\Debug\netcoreapp3.1\asignacionHerencia.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\obj\Debug\netcoreapp3.1\asignacionHerencia.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\obj\Debug\netcoreapp3.1\asignacionHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\obj\Debug\netcoreapp3.1\asignacionHerencia.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\obj\Debug\netcoreapp3.1\asignacionHerencia.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\obj\Debug\netcoreapp3.1\asignacionHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\obj\Debug\netcoreapp3.1\asignacionHerencia.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\obj\Debug\netcoreapp3.1\asignacionHerencia.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionHerencia\asignacionHerencia\obj\Debug\netcoreapp3.1\asignacionHerencia.genruntimeconfig.cache
