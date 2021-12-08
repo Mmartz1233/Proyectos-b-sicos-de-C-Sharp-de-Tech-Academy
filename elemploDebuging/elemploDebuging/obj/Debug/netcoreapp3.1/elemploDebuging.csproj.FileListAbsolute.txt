@@ -1,0 +1,14 @@
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\bin\Debug\netcoreapp3.1\elemploDebuging.exe
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\bin\Debug\netcoreapp3.1\elemploDebuging.deps.json
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\bin\Debug\netcoreapp3.1\elemploDebuging.runtimeconfig.json
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\bin\Debug\netcoreapp3.1\elemploDebuging.runtimeconfig.dev.json
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\bin\Debug\netcoreapp3.1\elemploDebuging.dll
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\bin\Debug\netcoreapp3.1\elemploDebuging.pdb
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\obj\Debug\netcoreapp3.1\elemploDebuging.csproj.AssemblyReference.cache
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\obj\Debug\netcoreapp3.1\elemploDebuging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\obj\Debug\netcoreapp3.1\elemploDebuging.AssemblyInfoInputs.cache
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\obj\Debug\netcoreapp3.1\elemploDebuging.AssemblyInfo.cs
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\obj\Debug\netcoreapp3.1\elemploDebuging.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\obj\Debug\netcoreapp3.1\elemploDebuging.dll
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\obj\Debug\netcoreapp3.1\elemploDebuging.pdb
+C:\Users\Mayra\Desktop\Basic_C # _Programs\elemploDebuging\elemploDebuging\obj\Debug\netcoreapp3.1\elemploDebuging.genruntimeconfig.cache
