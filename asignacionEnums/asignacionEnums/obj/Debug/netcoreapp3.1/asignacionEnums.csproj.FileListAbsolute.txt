@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\bin\Debug\netcoreapp3.1\asignacionEnums.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\bin\Debug\netcoreapp3.1\asignacionEnums.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\bin\Debug\netcoreapp3.1\asignacionEnums.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\bin\Debug\netcoreapp3.1\asignacionEnums.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\bin\Debug\netcoreapp3.1\asignacionEnums.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\bin\Debug\netcoreapp3.1\asignacionEnums.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\obj\Debug\netcoreapp3.1\asignacionEnums.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\obj\Debug\netcoreapp3.1\asignacionEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\obj\Debug\netcoreapp3.1\asignacionEnums.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\obj\Debug\netcoreapp3.1\asignacionEnums.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\obj\Debug\netcoreapp3.1\asignacionEnums.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\obj\Debug\netcoreapp3.1\asignacionEnums.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\obj\Debug\netcoreapp3.1\asignacionEnums.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionEnums\asignacionEnums\obj\Debug\netcoreapp3.1\asignacionEnums.genruntimeconfig.cache
