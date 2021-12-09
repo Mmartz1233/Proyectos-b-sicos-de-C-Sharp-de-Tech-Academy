@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\bin\Debug\netcoreapp3.1\asignacionLamda.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\bin\Debug\netcoreapp3.1\asignacionLamda.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\bin\Debug\netcoreapp3.1\asignacionLamda.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\bin\Debug\netcoreapp3.1\asignacionLamda.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\bin\Debug\netcoreapp3.1\asignacionLamda.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\bin\Debug\netcoreapp3.1\asignacionLamda.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\obj\Debug\netcoreapp3.1\asignacionLamda.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\obj\Debug\netcoreapp3.1\asignacionLamda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\obj\Debug\netcoreapp3.1\asignacionLamda.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\obj\Debug\netcoreapp3.1\asignacionLamda.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\obj\Debug\netcoreapp3.1\asignacionLamda.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\obj\Debug\netcoreapp3.1\asignacionLamda.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\obj\Debug\netcoreapp3.1\asignacionLamda.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionLamda\asignacionLamda\obj\Debug\netcoreapp3.1\asignacionLamda.genruntimeconfig.cache
