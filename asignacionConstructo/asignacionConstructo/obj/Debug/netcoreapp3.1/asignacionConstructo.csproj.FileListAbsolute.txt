@@ -1,0 +1,14 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\bin\Debug\netcoreapp3.1\asignacionConstructo.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\bin\Debug\netcoreapp3.1\asignacionConstructo.deps.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\bin\Debug\netcoreapp3.1\asignacionConstructo.runtimeconfig.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\bin\Debug\netcoreapp3.1\asignacionConstructo.runtimeconfig.dev.json
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\bin\Debug\netcoreapp3.1\asignacionConstructo.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\bin\Debug\netcoreapp3.1\asignacionConstructo.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\obj\Debug\netcoreapp3.1\asignacionConstructo.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\obj\Debug\netcoreapp3.1\asignacionConstructo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\obj\Debug\netcoreapp3.1\asignacionConstructo.AssemblyInfoInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\obj\Debug\netcoreapp3.1\asignacionConstructo.AssemblyInfo.cs
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\obj\Debug\netcoreapp3.1\asignacionConstructo.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\obj\Debug\netcoreapp3.1\asignacionConstructo.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\obj\Debug\netcoreapp3.1\asignacionConstructo.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\asignacionConstructo\asignacionConstructo\obj\Debug\netcoreapp3.1\asignacionConstructo.genruntimeconfig.cache
