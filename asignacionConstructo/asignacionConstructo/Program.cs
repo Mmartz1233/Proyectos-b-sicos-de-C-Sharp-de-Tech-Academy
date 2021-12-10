@@ -8,37 +8,50 @@ namespace asignacionConstructo
         {
             Console.WriteLine("Hello World!");
             //paso2 .- Cree una variable con la palabra clave "var". llamo a un constructor
-            var contacto = new Nombre("Mayra", "Martz", 28);
+            
             // Llamo al siguiente constructor
-            var gen = new Nombre("Mujer");
-            //paso 1.- Cree una variable constante.
+           
+            var nombre = new Nombre("Mayra");
+           //paso 1.- Cree una variable constante.
             const string live = "Mexico";
             //Encadena dos constructores juntos.
+            Nombre contacto = nombre, d = new Nombre(28);
+            Console.WriteLine("el contacto {0} tiene {1} anios de edad y vive en {1}",nombre.Nom,nombre.Edad, live);
 
-            Console.WriteLine("El contacto {0} {1} {2} vive en {3} y es {4}", contacto.Nom, contacto.App, contacto.Edad, live, gen.Sexo);
+
    
         }
     }
     public class Nombre
     {
-        // Creando propiedades
-        public String Nom { get; set; }
-        public String App { get; set; }
-        public int Edad { get; set; }
-        public String Sexo { get; set; }
+        //Creando variables
+        public int edad;
+        public string name;
+  
 
+        // Creando propiedades
+          public String Nom { get; set; }
+         public int Edad { get; set; }
+      
+        //creando constructor 
+        public Nombre() : this("", 0)
+        {
+
+        }
         //creando constructor parametrizado
-        public Nombre(String nom, String app, int edad)
+        public Nombre(String nom, int edad)
         {
             this.Nom = nom;
-            this.App = app;
             this.Edad = edad;
         }
-
-        public Nombre(String sex)
+        public Nombre(int edad):this("", edad)
         {
-            this.Sexo = sex;
         }
+        public Nombre(string nom):this(nom, 28)
+        {
+
+        }
+       
 
 
     }
