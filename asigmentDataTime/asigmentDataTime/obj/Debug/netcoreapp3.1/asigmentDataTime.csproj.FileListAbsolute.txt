@@ -1,0 +1,14 @@
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\bin\Debug\netcoreapp3.1\asigmentDataTime.exe
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\bin\Debug\netcoreapp3.1\asigmentDataTime.deps.json
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\bin\Debug\netcoreapp3.1\asigmentDataTime.runtimeconfig.json
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\bin\Debug\netcoreapp3.1\asigmentDataTime.runtimeconfig.dev.json
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\bin\Debug\netcoreapp3.1\asigmentDataTime.dll
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\bin\Debug\netcoreapp3.1\asigmentDataTime.pdb
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\obj\Debug\netcoreapp3.1\asigmentDataTime.csproj.AssemblyReference.cache
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\obj\Debug\netcoreapp3.1\asigmentDataTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\obj\Debug\netcoreapp3.1\asigmentDataTime.AssemblyInfoInputs.cache
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\obj\Debug\netcoreapp3.1\asigmentDataTime.AssemblyInfo.cs
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\obj\Debug\netcoreapp3.1\asigmentDataTime.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\obj\Debug\netcoreapp3.1\asigmentDataTime.dll
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\obj\Debug\netcoreapp3.1\asigmentDataTime.pdb
+C:\Users\Mayra\Desktop\Basic_C # _Programs\asigmentDataTime\asigmentDataTime\obj\Debug\netcoreapp3.1\asigmentDataTime.genruntimeconfig.cache
