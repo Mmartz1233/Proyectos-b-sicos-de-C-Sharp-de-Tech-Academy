@@ -84,3 +84,7 @@ C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\Bol
 C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\BoletinInformativo\BoletinInformativo\obj\Debug\BoletinInformativo.dll
 C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\BoletinInformativo\BoletinInformativo\obj\Debug\BoletinInformativo.pdb
 C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\BoletinInformativo\BoletinInformativo\bin\BoletinInformativo.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\BoletinInformativo\BoletinInformativo\bin\EntityFramework.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\BoletinInformativo\BoletinInformativo\bin\EntityFramework.SqlServer.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\BoletinInformativo\BoletinInformativo\bin\EntityFramework.xml
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\BoletinInformativo\BoletinInformativo\bin\EntityFramework.SqlServer.xml
