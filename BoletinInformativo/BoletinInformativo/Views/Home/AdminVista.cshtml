@@ -1,0 +1,29 @@
+﻿@using BoletinInformativo.ViewModels
+@model List<SignUpVm>
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-10 col-lg-6 mx-auto shadow"  >
+        <div class="card-header text-center">
+            <h5 class="m-0">Sign upS</h5>
+        </div>
+
+       <div class="card-body">
+           @foreach (var index in Model)
+            {
+           <div class="row">
+               <div class="col">
+                   @index.FirstName
+               </div>
+               <div class="col">
+                   @index.LastName
+               </div>
+               <div class="col">
+                   @index.EmailAddress
+               </div>
+           </div>
+
+            }
+       </div>
+
+    </div>
+</div>

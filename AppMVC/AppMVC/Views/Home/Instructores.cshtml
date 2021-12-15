@@ -1,0 +1,21 @@
+﻿
+
+@using AppMVC.Models
+@model List<Instructor>
+
+
+@{
+    ViewBag.Title = "Instructores";
+}
+
+<h2>Instructores</h2>
+
+
+
+
+@{
+    foreach (Instructor instructor in Model)
+    {
+        <h4>@instructor.Nombre</h4>
+    }
+}

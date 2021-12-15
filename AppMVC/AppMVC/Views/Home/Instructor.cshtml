@@ -1,0 +1,17 @@
+﻿<!--Para tener acceso al modelo  se agrega arroba model-->
+
+@model AppMVC.Models.Instructor
+
+@{
+    ViewBag.Title = "Instructor";
+}
+
+<h2>Instructor</h2>
+<h5>Detalles de instructor con id: @ViewBag.id</h5>
+
+<h5>Detalles del instructor</h5><br />
+<ul>
+    <li>ID = @Model.Id</li>
+    <li>Nombre = @Model.Nombre</li>
+    <li>Apellido = @Model.App</li>
+ </ul>
