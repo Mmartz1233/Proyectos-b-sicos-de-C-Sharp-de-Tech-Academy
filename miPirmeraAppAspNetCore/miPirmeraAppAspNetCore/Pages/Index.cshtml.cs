@@ -15,7 +15,8 @@ namespace miPirmeraAppAspNetCore.Pages
 
         public void OnGet()
         {
-           
+            string dateTime = DateTime.Now.ToString();
+            ViewData["TimeStamp"] = dateTime;
         }
     }
 }

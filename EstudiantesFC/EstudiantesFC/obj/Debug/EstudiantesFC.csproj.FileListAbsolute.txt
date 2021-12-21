@@ -1,0 +1,16 @@
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\bin\Debug\EstudiantesFC.exe.config
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\bin\Debug\EstudiantesFC.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\bin\Debug\EstudiantesFC.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\bin\Debug\EntityFramework.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\bin\Debug\EntityFramework.xml
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\obj\Debug\EstudiantesFC.csproj.AssemblyReference.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\obj\Debug\EstudiantesFC.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\obj\Debug\EstudiantesFC.csproj.CopyComplete
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\obj\Debug\EstudiantesFC.exe
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\obj\Debug\EstudiantesFC.pdb
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\obj\Debug\EstudiantesFC.Migrations.InitialCreate.resources
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\obj\Debug\EstudiantesFC.csproj.GenerateResource.cache
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\obj\Debug\EstudiantesFC.Migrations.AddUrl.resources
+C:\Users\Mayra\Documents\GitHub\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\EstudiantesFC\EstudiantesFC\obj\Debug\EstudiantesFC.Migrations.AddUrl1.resources
