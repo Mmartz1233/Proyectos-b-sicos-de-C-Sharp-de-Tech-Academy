@@ -81,9 +81,9 @@ namespace CarInsurance.Controllers
                 } else if (edad > 19 && edad < 25)
                 {
                     edadValor = 50;
-                } else if (edad < 25)
+                } else if (edad > 25)
                 {
-                    edadValor = 25;
+                    edadValor = 25.2m;
                 }
                 
                if (anioAuto < 2000)
@@ -99,7 +99,7 @@ namespace CarInsurance.Controllers
 
                if (marcaAuto == "Porsche" || marcaAuto == "Porsche" && modeloAuto == "911 Carrera")
                 {
-                    valorMarcaModAuto = 25;
+                    valorMarcaModAuto = 50;
                 }
 
                 totalGeneral = edadValor + valorAnioAuto + valorMarcaModAuto;
