@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0bRwosX6japKg6Ut4TaRCHkV2LIp3EwbVUEbEUPRwZnDSjrpp4hfkkXex8UF/I8FzsLrwzWX1mFsytVpE7W0ig==",
+  "dgSpecHash": "MpaLvshZyxm5V+w2sJz3aGwBW1j6W5EJBacrBzyftpCle9oIlwgUXfF9NovbfaQWKl78dS3L9RoKM8pftv0byg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mayra\\Documents\\GitHub\\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\\AsignacionInterfaz\\AsignacionInterfaz\\AsignacionInterfaz.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

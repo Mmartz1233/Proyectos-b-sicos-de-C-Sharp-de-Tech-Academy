@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FTNv7neXLJPF0zUhNqLmsTp5+oro6KfrcNoK+9Zj08uHrlD0BytrQzk77WxKaMSD5XpHX56zAjsrL4/giNsuJw==",
+  "dgSpecHash": "dAoFTqKtyF1mC2PqRunrBT19nGhEgpqt4sRoJQ9EA/KGWKfxLY3jhfT+40oWMmza/iJ8WRSGWkcbTNFWS2ecBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mayra\\Documents\\GitHub\\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\\ejemploClasesAbstractas\\ejemploClasesAbstractas\\ejemploClasesAbstractas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

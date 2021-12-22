@@ -75,15 +75,15 @@ namespace CarInsurance.Controllers
 
                 TimeSpan fechActual = DateTime.Now - fechaNac;
                 int edad = DateTime.Today.AddTicks(-fechaNac.Ticks).Year - 1;
-               if (edad < 18)
+               if (edad <= 18)
                 {
                     edadValor = 100;
-                } else if (edad > 19 && edad < 25)
+                } else if (edad >= 19 && edad <= 25)
                 {
                     edadValor = 50;
                 } else if (edad > 25)
                 {
-                    edadValor = 25.2m;
+                    edadValor = 25;
                 }
                 
                if (anioAuto < 2000)
@@ -97,9 +97,13 @@ namespace CarInsurance.Controllers
                     valorAnioAuto = 0;
                 }
 
-               if (marcaAuto == "Porsche" || marcaAuto == "Porsche" && modeloAuto == "911 Carrera")
+               if (marcaAuto == "Porsche")
                 {
-                    valorMarcaModAuto = 50;
+                    valorMarcaModAuto = 25;
+                    if(modeloAuto == "911 Carrera")
+                    {
+                        valorMarcaModAuto += 25;
+                    }
                 }
 
                 totalGeneral = edadValor + valorAnioAuto + valorMarcaModAuto;

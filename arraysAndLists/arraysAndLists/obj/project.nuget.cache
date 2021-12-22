@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9WgAjhF32OQsnO3Mj9nv0bpYYKb3p59oCfiij7qdP6CTgprLq9LKZCeemsLI3IfVuJZgXRk2BiR2Ub0kbd/mZg==",
+  "dgSpecHash": "NSb9Uhu7m/jFuid3c/L8i9Savd3qyDawjWkSLs/Kor4vbp1WYnhXuA47wFQ+lEEMjU73xA3O8iFuZS78KLU8sQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mayra\\Documents\\GitHub\\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\\arraysAndLists\\arraysAndLists\\arraysAndLists.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

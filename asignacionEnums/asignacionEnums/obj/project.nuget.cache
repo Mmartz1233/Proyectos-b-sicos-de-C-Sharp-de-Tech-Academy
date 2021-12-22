@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V8KVQTf7Kq8cDANvksD+DMpiOc8RyzNJz5Kch0RIa/GyMBI+EtEbELj2KCO80u3f51aMdZ09Mx3vw4ykesb7sA==",
+  "dgSpecHash": "pcbIUgc2MXEZ9CdGUynTgUZX5asZl/I/e73EzBBelZySGAS7sYtaxCu3JWGswsxIMTj5SH/7bNYHZHKsbD/1Hg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mayra\\Documents\\GitHub\\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\\asignacionEnums\\asignacionEnums\\asignacionEnums.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

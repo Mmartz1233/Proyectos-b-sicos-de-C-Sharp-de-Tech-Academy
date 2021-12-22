@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zmmCmDuQs0e7+Vbk2eLlovnoZEB9scVekglu5Q3RdWiyJgOfYiqPsxxIntpDeBZ7oqwLTMMyE10fVSUvntmZiQ==",
+  "dgSpecHash": "KbaYwNkRMGea+tubshq6LlXJLZU6ZDPfRnSqF/jiWXIImU/E++cGhx58zxOb4Kts9joFZAf3UbBt22TeOo4O8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mayra\\Documents\\GitHub\\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\\asignacionConstructo\\asignacionConstructo\\asignacionConstructo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

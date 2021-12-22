@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YldsYD30l8Z38JhRzTFPjBZ3VHmYjtSxanyFk3MovVQp6NHAYxJT2SJtOd7JQKQzAxM/84depPzepOLSRKiSbQ==",
+  "dgSpecHash": "p4+w0PoYBuBkJOchyDLyLfUdV9wLCH5vNWyqn/UIsmqNshtMdMqFdCb9HcBpm2I15MN8BsxL3yV+JNpSzvtAXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mayra\\Documents\\GitHub\\Proyectos-b-sicos-de-C-Sharp-de-Tech-Academy\\asignacionComparacion\\asignacionComparacion\\asignacionComparacion.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
